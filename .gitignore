@@ -1,0 +1,9 @@
+# variables de entorno 
+.env
+
+# configuracion de finanzas
+finanzas.json
+
+# Carpetas y archivos generados por Python
+__pycache__/
+*.pyc
