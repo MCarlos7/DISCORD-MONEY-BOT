@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
 An intelligent, conversational bot that helps you manage your personal finances directly from your Discord server. Powered by Python and Wit.ai for Natural Language Understanding.
@@ -23,12 +22,6 @@ An intelligent, conversational bot that helps you manage your personal finances 
 ## 🛠️ Tech Stack
 
 This project was built using the following technologies:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://discordpy.readthedocs.io/en/latest/" target="_blank"> <img src="https://i.imgur.com/s2h4c29.png" alt="discordpy" width="40" height="40"/> </a>
-  <a href="https://wit.ai/" target="_blank"> <img src="https://i.imgur.com/aK4a12C.png" alt="witai" width="40" height="40"/> </a>
-</p>
 
 * **Python**: The core programming language.
 * **discord.py**: A modern, easy-to-use, feature-rich, and async-ready API wrapper for Discord.
